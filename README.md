@@ -19,7 +19,7 @@
 
 ---
 
-## 🌷 A little about me
+## A little about me
 
 I'm a finance-minded builder who enjoys turning **market questions into testable hypotheses**, and **data into useful decisions**.
 
@@ -27,7 +27,7 @@ My foundation is in finance and investment analysis; I'm building on it with sta
 
 > 💡 **My approach:** Start with a meaningful question → build a careful empirical test → challenge the result → communicate what matters.
 
-## ✨ What I'm building
+## What I'm building
 
 <table>
 <tr>
@@ -39,9 +39,9 @@ My foundation is in finance and investment analysis; I'm building on it with sta
 
 Regression · Classification · Clustering
 
-- 🎮 **Mobile game churn prediction** — feature engineering, model comparison & evaluation
-- 🌳 **Decision tree from scratch** — information gain, splitting rules & classification
-- 📝 Text classification and paper clustering experiments
+- **Mobile game churn prediction** — feature engineering, model comparison & evaluation
+- **Decision tree from scratch** — information gain, splitting rules & classification
+- Text classification and paper clustering experiments
 
 **Core skills:** statistical modeling, validation, explainability
 
@@ -54,9 +54,9 @@ Regression · Classification · Clustering
 
 PyTorch · Computer Vision · Google Colab
 
-- 🩻 **Brain MRI segmentation** — U-Net experiments
-- 🚗 **Traffic object detection** — YOLO / RT-DETR
-- 🖼️ **Image captioning & super-resolution** — vision-language and image reconstruction
+- **Brain MRI segmentation** — U-Net experiments
+- **Traffic object detection** — YOLO / RT-DETR
+- **Image captioning & super-resolution** — vision-language and image reconstruction
 
 **Core skills:** training pipelines, modular Python, visual evaluation
 
@@ -70,8 +70,8 @@ PyTorch · Computer Vision · Google Colab
 
 | Research thread | Question I'm investigating | Methods / lenses |
 |:--|:--|:--|
-| 🌍 **Sovereign Risk** | Can debt and fiscal indicators add predictive information about sovereign credit spreads? | Panel regressions · out-of-sample testing · macro data |
-| ⚡ **U.S. Utilities** | How do rates, regulation, capital spending, and financing shape investment risk and return? | Return attribution · rate sensitivity · fundamental analysis |
+| **Sovereign Risk** | Can debt and fiscal indicators add predictive information about sovereign credit spreads? | Panel regressions · out-of-sample testing · macro data |
+| **U.S. Utilities** | How do rates, regulation, capital spending, and financing shape investment risk and return? | Return attribution · rate sensitivity · fundamental analysis |
 
 <sub>These are ongoing research projects; public write-ups and code will be linked as they become ready.</sub>
 
@@ -79,11 +79,11 @@ PyTorch · Computer Vision · Google Colab
 
 | | What I use |
 |:--|:--|
-| 🐍 **Code & data** | Python · SQL · R · MATLAB · pandas · NumPy |
-| 📐 **Statistics & ML** | scikit-learn · statsmodels · regression · cross-validation · feature engineering |
-| 🔥 **Deep learning** | PyTorch · computer vision · Colab GPU workflows |
-| 💹 **Finance** | Portfolio analysis · factor models · yield curves · risk modeling |
-| 🛠️ **Workflow** | Jupyter · Git/GitHub · Excel/VBA · data visualization |
+| **Code & data** | Python · SQL · R · MATLAB · pandas · NumPy |
+| **Statistics & ML** | scikit-learn · statsmodels · regression · cross-validation · feature engineering |
+| **Deep learning** | PyTorch · computer vision · Colab GPU workflows |
+| **Finance** | Portfolio analysis · factor models · yield curves · risk modeling |
+| **Workflow** | Jupyter · Git/GitHub · Excel/VBA · data visualization |
 
 ## 🎯 Currently exploring
 
