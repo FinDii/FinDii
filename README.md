@@ -1,80 +1,102 @@
-<!--
-**FinDii/FinDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm FinDii! 💜✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Quantitative Finance × 🤖 Machine Learning
 
-<h1 align="center">Hi, I'm 💜 FinDii ✨</h1>
-<h3 align="center">Finance • Quantitative Analysis • Machine Learning</h3>
+*Financial intuition meets statistical rigor — with a little curiosity along the way.*
 
-<p align="center">
-  <em>
-    Graduate of <strong>HEC Paris</strong> and <strong>Shanghai Jiao Tong University</strong><br>
-    Exploring the intersection of finance, data, and technology with analytical precision and creative insight.
-  </em>
-</p>
+**UCLA Anderson MFE '27** · **HEC Paris MIF** · **SJTU Finance** · **CFA Charterholder**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Focus](https://img.shields.io/badge/Focus-Quant%20Research%20%2B%20AI-8B5CF6?style=flat-square)](#-what-im-building)
+
+**[💻 Machine Learning](https://github.com/FinDii/machine-learning-projects)** &nbsp;·&nbsp; **[🧠 Deep Learning](https://github.com/FinDii/deep-learning-projects)** &nbsp;·&nbsp; **[📈 Finance Research](#-finance-research--work-in-progress)**
+
+</div>
 
 ---
 
-## 🌿 About Me
+## 🌷 A little about me
 
-- 📊 Passionate about **financial engineering**, **quantitative modeling**, and **data-driven decision making**
-- 🧮 Interested in **ML for Finance**, **time series forecasting**, **portfolio optimization**, and **risk analysis**
-- 🌍 A believer in precision, clarity, and thoughtful problem-solving
-- ✨ Currently expanding my quantitative toolkit და
+I'm a finance-minded builder who enjoys turning **market questions into testable hypotheses**, and **data into useful decisions**.
+
+My foundation is in finance and investment analysis; I'm building on it with statistical learning, deep learning, and reproducible Python research. I'm especially curious about where **financial intuition and AI can make each other better** — not just where a more complicated model can be used.
+
+> 💡 **My approach:** Start with a meaningful question → build a careful empirical test → challenge the result → communicate what matters.
+
+## ✨ What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Machine Learning Projects](https://github.com/FinDii/machine-learning-projects)
+
+**From data to decisions**
+
+Regression · Classification · Clustering
+
+- 🎮 **Mobile game churn prediction** — feature engineering, model comparison & evaluation
+- 🌳 **Decision tree from scratch** — information gain, splitting rules & classification
+- 📝 Text classification and paper clustering experiments
+
+**Core skills:** statistical modeling, validation, explainability
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Deep Learning Projects](https://github.com/FinDii/deep-learning-projects)
+
+**From architectures to experiments**
+
+PyTorch · Computer Vision · Google Colab
+
+- 🩻 **Brain MRI segmentation** — U-Net experiments
+- 🚗 **Traffic object detection** — YOLO / RT-DETR
+- 🖼️ **Image captioning & super-resolution** — vision-language and image reconstruction
+
+**Core skills:** training pipelines, modular Python, visual evaluation
+
+</td>
+</tr>
+</table>
+
+## 📈 Finance research · work in progress
+
+*This is the direction I'm growing toward: finance-first research with increasingly strong quantitative and ML tools.*
+
+| Research thread | Question I'm investigating | Methods / lenses |
+|:--|:--|:--|
+| 🌍 **Sovereign Risk** | Can debt and fiscal indicators add predictive information about sovereign credit spreads? | Panel regressions · out-of-sample testing · macro data |
+| ⚡ **U.S. Utilities** | How do rates, regulation, capital spending, and financing shape investment risk and return? | Return attribution · rate sensitivity · fundamental analysis |
+
+<sub>These are ongoing research projects; public write-ups and code will be linked as they become ready.</sub>
+
+## 🧰 My toolkit
+
+| | What I use |
+|:--|:--|
+| 🐍 **Code & data** | Python · SQL · R · MATLAB · pandas · NumPy |
+| 📐 **Statistics & ML** | scikit-learn · statsmodels · regression · cross-validation · feature engineering |
+| 🔥 **Deep learning** | PyTorch · computer vision · Colab GPU workflows |
+| 💹 **Finance** | Portfolio analysis · factor models · yield curves · risk modeling |
+| 🛠️ **Workflow** | Jupyter · Git/GitHub · Excel/VBA · data visualization |
+
+## 🎯 Currently exploring
+
+**Quantitative investment research** · **Portfolio & risk analytics** · **ML for financial data**
+
+I'm interested in building the bridge from **financial reasoning** to **robust models** to **actionable insights** — one experiment at a time. 🌱
 
 ---
 
-## 🧠 Interests & Focus Areas
+<div align="center">
 
-- Financial Engineering & Quantitative Modeling  
-- Statistical Learning & Machine Learning  
-- Feature Engineering & Data Preprocessing  
-- Time Series · Factor Models · Risk Metrics  
-- Python for Finance · Jupyter Workflows · Clean Visualization  
+*Curious about markets. Serious about methods. Still learning, always building.* 💜
 
----
+<sub>Merci à vous & bonne journée! ✨</sub>
 
-## 🛠 Skills & Tools
-
-**Programming:**  
-Python · SQL · R · MATLAB  
-
-**Finance & Analytics:**  
-Pandas · NumPy · scikit-learn · Statsmodels  
-Portfolio Theory · CAPM & Multi-factor Models · Time Series  
-
-**Other Tools:**  
-Git · Jupyter Notebook · Excel VBA
-
----
-
-## 📘 Selected Projects
-
-Here are some of the projects I've been working on:
-
-- 🌱 **Feature Engineering Toolkit (Python)**  
-  Modular and elegant pipelines for financial ML preprocessing  
-- 📈 **Correlation Analysis & Exploratory Data Study**  
-  Jupyter notebook for structured financial insights  
-- 📊 **Portfolio Optimization Demo**  
-  Experiments with volatility, Sharpe ratios, and allocation strategies  
-- ⏳ **Machine Learning in financial Modeling**  
-  Early-stage research on tree models and LLM  
-
-> More projects coming soon as part of my quant finance journey.
-
----
-
-<p align="center">
-  <em> 💜 Merci à vous et Bonne journée ✨</em>
-</p>
+</div>
